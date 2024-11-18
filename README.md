@@ -23,6 +23,8 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)
 <!-- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white) -->
 <!-- ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?logo=apache&logoColor=white) -->
+&nbsp;
+
 
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?logo=macos&logoColor=F0F0F0)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
@@ -31,12 +33,7 @@
 
 &nbsp;
 &nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 
 <a href="https://www.credly.com/badges/891ba705-83c0-454e-a176-0992b0a12406" target="_blank"><img src="github-foundations.png" width=10%></a>
-
-&nbsp;
 
 <p><i>“...what people call intelligence just boils down to curiosity.”</i></p>
