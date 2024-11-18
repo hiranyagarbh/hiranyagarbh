@@ -34,6 +34,9 @@
 &nbsp;
 &nbsp;
 &nbsp;
+
+![Github Foundations Certified](https://github.com/user-attachments/assets/214e81de-1b04-469c-8e58-bd6e24c0a362)
+
 &nbsp;
 
 <p><i>“...what people call intelligence just boils down to curiosity.”</i></p>
