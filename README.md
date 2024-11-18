@@ -35,7 +35,7 @@
 &nbsp;
 &nbsp;
 
-![Github Foundations Certified](https://github.com/user-attachments/assets/214e81de-1b04-469c-8e58-bd6e24c0a362)
+<a href="https://www.credly.com/badges/891ba705-83c0-454e-a176-0992b0a12406" target="_blank"><img src="github-foundations.png" width=10%></a>
 
 &nbsp;
 
