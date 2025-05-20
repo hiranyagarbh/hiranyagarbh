@@ -17,7 +17,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
 
-
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)
 ![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)
@@ -31,13 +31,6 @@
 <!-- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white) -->
 <!-- ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?logo=apache&logoColor=white) -->
 &nbsp;
-
-![Mac OS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?logo=Raspberry-Pi)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white)
-![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
-
 &nbsp;
 
 <a href="https://www.credly.com/badges/6c4ef27a-78c3-4065-8426-fb1f277c49f3/public_url" target="_blank"><img src="aws-certified-cloud-practitioner.png" width=10%></a>
