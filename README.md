@@ -33,6 +33,7 @@
 &nbsp;
 &nbsp;
 
+<a href="https://www.credly.com/badges/ebdb896b-6251-4518-bdfc-e353c4b9f836/public_url" target="_blank"><img src="aws-certified-developer-associate.png" width=10%></a>
 <a href="https://www.credly.com/badges/6c4ef27a-78c3-4065-8426-fb1f277c49f3/public_url" target="_blank"><img src="aws-certified-cloud-practitioner.png" width=10%></a>
 <a href="https://www.credly.com/badges/891ba705-83c0-454e-a176-0992b0a12406" target="_blank"><img src="github-foundations.png" width=10%></a>
 
