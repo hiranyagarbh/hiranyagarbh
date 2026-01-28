@@ -3,9 +3,9 @@
 &nbsp;
 
 <a href="https://www.linkedin.com/in/hiranyagarbh/" target="_blank"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
-<a href="https://leetcode.com/u/hiranyagarbhsingh/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-ffffff?logo=LeetCode&logoColor=#000000"></a>
-<a href="https://www.hackerrank.com/profile/hiranyag_singh" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white"></a>
 <a href="https://stackoverflow.com/users/8146871/hiranya" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+<!-- <a href="https://leetcode.com/u/hiranyagarbhsingh/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-ffffff?logo=LeetCode&logoColor=#000000"></a> -->
+<!-- <a href="https://www.hackerrank.com/profile/hiranyag_singh" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white"></a> -->
 <!-- ![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06) -->
 
 &nbsp;
@@ -34,4 +34,4 @@
 <a href="https://www.credly.com/badges/6c4ef27a-78c3-4065-8426-fb1f277c49f3/public_url" target="_blank"><img src="aws-certified-cloud-practitioner.png" width=8%></a>
 <a href="https://www.credly.com/badges/891ba705-83c0-454e-a176-0992b0a12406" target="_blank"><img src="github-foundations.png" width=8%></a>
 
-<p><i>“...what people call intelligence just boils down to curiosity.”</i></p>
+<h6><i>“...what people call intelligence just boils down to curiosity.”</i></h6>
